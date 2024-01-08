@@ -4,3 +4,11 @@ language = "en"
 multilingual = false
 src = "src"
 title = "The RoCC Doc V3: An Introduction to the Rocket Custom Coprocessor Interface"
+
+[output.html]
+default-theme = "dark"
+curly-quotes = true
+mathjax-support = false
+copy-fonts = true
+git-repository-url = "https://github.com/Constellation-FPGA/rocket-docs"
+git-repository-icon = "fa-github"
