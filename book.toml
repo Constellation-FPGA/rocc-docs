@@ -1,0 +1,6 @@
+[book]
+authors = ["Karl Hallsby"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The RoCC Doc V3: An Introduction to the Rocket Custom Coprocessor Interface"
