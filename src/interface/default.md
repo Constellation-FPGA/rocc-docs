@@ -1,7 +1,15 @@
 # Default Interface
 
 The default RoCC interface is composed of 3 subgroups, namely the Control, Register and Memory mode signals.
-A comprehensive list of the signals, with short descriptions and their default values, is provided from a designers’ point of view.
+
+<div class="warning">
+A comprehensive list of the signals, with short descriptions and their default values, is provided from a designers’ and accelerators point of view!
+This means:
+<ul>
+<li>Input is data FROM the main core TO the accelerator.</li>
+<li>Output is data FROM the accelerator TO the main core.</li>
+</ul>
+</div>
 
 ## Core control (CC)
 The core control signals listed in Table 1 ensure co-ordination between the core and accelerator.
