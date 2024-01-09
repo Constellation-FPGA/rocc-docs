@@ -1,6 +1,6 @@
 # Default Interface
 
-The default RoCC interface is composed of 3 subgroups, namely the Control, Register and Memory mode signals.
+The default RoCC interface is composed of 3 subgroups, namely the [Control](#core-control-cc), [Register](#register-mode-core) and [Memory](#memory-mode-mem) mode signals.
 
 <div class="warning">
 A comprehensive list of the signals, with short descriptions and their default values, is provided from a designers’ and accelerators point of view!
