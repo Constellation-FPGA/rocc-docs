@@ -5,6 +5,10 @@ multilingual = false
 src = "src"
 title = "The RoCC Doc V3: An Introduction to the Rocket Custom Coprocessor Interface"
 
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+
 [output.html]
 default-theme = "dark"
 curly-quotes = true

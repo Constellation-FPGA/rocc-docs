@@ -32,6 +32,7 @@
             default = pkgs.mkShell {
               buildInputs = with pkgs; [
                 mdbook
+                mdbook-toc
 
                 # keep this line if you use bash
                 bashInteractive
