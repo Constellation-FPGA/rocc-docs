@@ -11,7 +11,7 @@ renderer = ["html"]
 
 [output.html]
 default-theme = "dark"
-curly-quotes = true
+smart-punctuation = true
 mathjax-support = false
 copy-fonts = true
 git-repository-url = "https://github.com/Constellation-FPGA/rocket-docs"
